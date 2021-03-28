@@ -22,6 +22,8 @@ margin: 0 auto;
 }
 .item1
 {
-grid-column-start: 3;
+/* grid-column-start: 3;
 grid-row-start: 2;
+*/
+grid-area: 2/2/4/3;
 }
